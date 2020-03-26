@@ -1,0 +1,200 @@
+<class 'str'>
+Case #1: INSOMNIA
+<class 'str'>
+Case #2: 10
+<class 'str'>
+Case #3: 90
+<class 'str'>
+Case #4: 110
+<class 'str'>
+Case #5: 2475
+<class 'str'>
+Case #6: 96
+<class 'str'>
+Case #7: 801
+<class 'str'>
+Case #8: 790
+<class 'str'>
+Case #9: 92
+<class 'str'>
+Case #10: 9000
+<class 'str'>
+Case #11: 594
+<class 'str'>
+Case #12: 900
+<class 'str'>
+Case #13: 490
+<class 'str'>
+Case #14: 198
+<class 'str'>
+Case #15: 156
+<class 'str'>
+Case #16: 900
+<class 'str'>
+Case #17: 952
+<class 'str'>
+Case #18: 90
+<class 'str'>
+Case #19: 5478
+<class 'str'>
+Case #20: 680
+<class 'str'>
+Case #21: 920
+<class 'str'>
+Case #22: 1253
+<class 'str'>
+Case #23: 918
+<class 'str'>
+Case #24: 203
+<class 'str'>
+Case #25: 903
+<class 'str'>
+Case #26: 1701
+<class 'str'>
+Case #27: 904
+<class 'str'>
+Case #28: 912
+<class 'str'>
+Case #29: 936
+<class 'str'>
+Case #30: 1096
+<class 'str'>
+Case #31: 378
+<class 'str'>
+Case #32: 924
+<class 'str'>
+Case #33: 790
+<class 'str'>
+Case #34: 90
+<class 'str'>
+Case #35: 729
+<class 'str'>
+Case #36: 1304
+<class 'str'>
+Case #37: 2356
+<class 'str'>
+Case #38: 1127
+<class 'str'>
+Case #39: 390
+<class 'str'>
+Case #40: 905
+<class 'str'>
+Case #41: 1048
+<class 'str'>
+Case #42: 90
+<class 'str'>
+Case #43: 1390
+<class 'str'>
+Case #44: 1107
+<class 'str'>
+Case #45: 1197
+<class 'str'>
+Case #46: 960
+<class 'str'>
+Case #47: 900
+<class 'str'>
+Case #48: 456
+<class 'str'>
+Case #49: 590
+<class 'str'>
+Case #50: 909
+<class 'str'>
+Case #51: 190
+<class 'str'>
+Case #52: 1296
+<class 'str'>
+Case #53: 710
+<class 'str'>
+Case #54: 189
+<class 'str'>
+Case #55: 370
+<class 'str'>
+Case #56: 1936
+<class 'str'>
+Case #57: 940
+<class 'str'>
+Case #58: 1038
+<class 'str'>
+Case #59: 1458
+<class 'str'>
+Case #60: 721
+<class 'str'>
+Case #61: 70
+<class 'str'>
+Case #62: 920
+<class 'str'>
+Case #63: 792
+<class 'str'>
+Case #64: 9000
+<class 'str'>
+Case #65: 469
+<class 'str'>
+Case #66: 424
+<class 'str'>
+Case #67: 970
+<class 'str'>
+Case #68: 396
+<class 'str'>
+Case #69: 459
+<class 'str'>
+Case #70: 1176
+<class 'str'>
+Case #71: 90
+<class 'str'>
+Case #72: 930
+<class 'str'>
+Case #73: 798
+<class 'str'>
+Case #74: 924
+<class 'str'>
+Case #75: 30
+<class 'str'>
+Case #76: 256
+<class 'str'>
+Case #77: 574
+<class 'str'>
+Case #78: 1136
+<class 'str'>
+Case #79: 1190
+<class 'str'>
+Case #80: 518
+<class 'str'>
+Case #81: 980
+<class 'str'>
+Case #82: 545
+<class 'str'>
+Case #83: 504
+<class 'str'>
+Case #84: 2380
+<class 'str'>
+Case #85: 946
+<class 'str'>
+Case #86: 792
+<class 'str'>
+Case #87: 330
+<class 'str'>
+Case #88: 830
+<class 'str'>
+Case #89: 1276
+<class 'str'>
+Case #90: 2145
+<class 'str'>
+Case #91: 207
+<class 'str'>
+Case #92: 301
+<class 'str'>
+Case #93: 450
+<class 'str'>
+Case #94: 819
+<class 'str'>
+Case #95: 1001
+<class 'str'>
+Case #96: 476
+<class 'str'>
+Case #97: 900
+<class 'str'>
+Case #98: 1930
+<class 'str'>
+Case #99: 918
+<class 'str'>
+Case #100: 470
